@@ -131,6 +131,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
   cursor: pointer;
   transition: 0.5s all;
 }
+
 #div-fixa img {
   width: 50px;
   height: 50px;
@@ -7519,8 +7520,8 @@ textarea.form-control-lg {
 }
 
 .py-5 {
-  padding-top: 3rem !important;
-  padding-bottom: 3rem !important;
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
 }
 
 .pt-0 {
