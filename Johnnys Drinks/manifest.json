@@ -1,0 +1,31 @@
+{
+"short_name": "Johnnys",
+"name": "Johnnys Drinks",
+"icons": [
+    {
+        "src": "assets/img/drink.png",
+        "type": "img/png",
+        "sizes": "192x192"
+    },
+    {
+        "src": "assets/img/IMG_20230211_201402_719.png",
+        "type": "img/png",
+        "sizes": "336.06x597.42"
+    },
+    {
+        "src": "assets/img/Caipirinha de limão.png",
+        "type": "img/png",
+        "sizes": "312.05x468.28"
+    },
+    {
+        "src": "assets/img/741665a7e33103761f6367997a1d3402.png",
+        "type": "img/png",
+        "sizes": "236x311"
+    }
+],
+        "start_url": "/utm=pwa",
+        "background_color": "#fff",
+        "display": "standalone",
+        "orientation": "portrait",
+        "theme_color": "000000"
+}
